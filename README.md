@@ -2,7 +2,7 @@
 
 # Licenciatura en Tecnología
 
-## Semestre 2022-1
+## Semestre 2023-1
 
 ![alt text](figs/bg.png)
 
