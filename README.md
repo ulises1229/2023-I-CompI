@@ -1,7 +1,6 @@
 # Licenciatura en Tecnología - Computación I
-___  
+
 <img src="figs/lictec_small.png" alt="drawing" width="300" style = "text-align: center"/>
-___
 
 ## Semestre 2023-1
 
