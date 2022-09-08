@@ -60,10 +60,10 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 # Prácticas
 
-**Revisiones:** Puedes revisar los resultados y las calificaciones de tus prácticas en [el siguiente enlace](https://github.com/ulises1229/2022-1-Comp-I/tree/Grades).
+
 
 |Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
 |--|--|--|--|
-|
+|  |  |  |  |
 
 #### Última modificación: 08 de septiembre de 2022
