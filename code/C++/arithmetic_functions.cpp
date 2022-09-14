@@ -14,7 +14,7 @@ array<int, n> eliminarRepetidos();
 array<int, n> A = {9, 10, 6, 3, 8, 4, 3, 10, 9, 6};
 
 int main() {
-    cout << "El calcularPromedio de los elementos es: " << calcularPromedio() << endl;
+    cout << "El promedio de los elementos es: " << calcularPromedio() << endl;
     cout << "El elemento mínimo es : " << calcularMin() << endl;
     cout << "El elemento máximo es : " << calcularMax() << endl;
     array<int, n> B {0};
