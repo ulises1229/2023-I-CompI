@@ -1,6 +1,6 @@
 # Práctica 3: Calculadora
 
-## Fecha de realización: 10/09/2021
+## Fecha de realización: 28/09/2022
 
 ## Temas
  * Lenguaje de programación C++

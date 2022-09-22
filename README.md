@@ -60,10 +60,11 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 # Prácticas
 
-
+**Revisiones:** Puedes revisar los resultados y las calificaciones de tus prácticas en [el siguiente enlace](https://github.com/ulises1229/2023-I-CompI/tree/Grades).
 
 |Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
 |--|--|--|--|
 |1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[Sintaxis Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) </li></ul>|21/09/20|
+|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|28/09/2021|
 
-#### Última modificación: 15 de septiembre de 2022
+#### Última modificación: 21 de septiembre de 2022
