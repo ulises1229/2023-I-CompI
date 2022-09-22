@@ -1,6 +1,6 @@
 # Calificaciones: ab99df
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|22-09-2022 16:17:44|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|22-09-2022 17:18:06|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
 
-Última actualización: 22-09-2022 16:17
+Última actualización: 22-09-2022 17:18
