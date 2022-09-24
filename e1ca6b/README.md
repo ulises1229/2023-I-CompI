@@ -1,6 +1,6 @@
 # Calificaciones: e1ca6b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|24-09-2022 04:31:19|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|24-09-2022 05:31:40|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
 
-Última actualización: 24-09-2022 04:31
+Última actualización: 24-09-2022 05:31
