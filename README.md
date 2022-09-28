@@ -66,5 +66,6 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |--|--|--|--|
 |1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[Sintaxis Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) </li></ul>|21/09/20|
 |3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|28/09/2021|
+|4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li></ul>|05/10/2021|
 
-#### Última modificación: 21 de septiembre de 2022
+#### Última modificación: 28 de septiembre de 2022
