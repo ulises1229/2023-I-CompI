@@ -1,6 +1,6 @@
 # Calificaciones: a1ea37
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|27-09-2022 20:04:35|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|✔️|✔️|❌|❌|❌|❌|d2cfb4afce4aa47853c1aebd789b824564108f8b|28-09-2022 11:16:14|28-09-2022 12:48:56|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división-No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|6.0|
 
-Última actualización: 27-09-2022 20:04
+Última actualización: 28-09-2022 12:49

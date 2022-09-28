@@ -1,6 +1,6 @@
 # Calificaciones: 623425
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|27-09-2022 20:04:40|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|✔️|✔️|❌|❌|❌|❌|a4cfa3536978c2ccf1299b3d4f0bdf0d25d8e7bd|28-09-2022 11:43:50|28-09-2022 12:51:07|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división-No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|6.0|
 
-Última actualización: 27-09-2022 20:04
+Última actualización: 28-09-2022 12:51

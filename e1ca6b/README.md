@@ -1,6 +1,6 @@
 # Calificaciones: e1ca6b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|27-09-2022 20:04:38|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|✔️|✔️|✔️|✔️|❌|❌|3d54e3adba9059a5b317ce680acb5770212e656a|28-09-2022 10:27:19|28-09-2022 12:50:23|Revisa la operación división-No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|8.666666666666668|
 
-Última actualización: 27-09-2022 20:04
+Última actualización: 28-09-2022 12:51

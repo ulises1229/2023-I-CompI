@@ -1,6 +1,6 @@
 # Calificaciones: 7ccce4
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|27-09-2022 20:04:36|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|✔️|✔️|✔️|✔️|✔️|❌|a64735b617de9b1e48d59f81662d4149a63520c0|28-09-2022 10:35:52|28-09-2022 12:49:40|No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|10.0|
 
-Última actualización: 27-09-2022 20:04
+Última actualización: 28-09-2022 12:50
