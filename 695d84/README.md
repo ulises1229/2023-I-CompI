@@ -1,6 +1,6 @@
 # Calificaciones: 695d84
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2022 14:55:27|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2022 15:57:13|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
 
-Última actualización: 28-09-2022 14:55
+Última actualización: 28-09-2022 15:57
