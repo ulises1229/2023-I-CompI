@@ -1,6 +1,6 @@
 # Calificaciones: 2a861f
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2022 12:50:22|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2022 12:53:56|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
 
-Última actualización: 28-09-2022 12:50
+Última actualización: 28-09-2022 12:53
