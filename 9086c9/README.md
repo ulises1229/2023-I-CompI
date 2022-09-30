@@ -1,6 +1,7 @@
 # Calificaciones: 9086c9
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|29-09-2022 20:13:43|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|30-09-2022 16:09:39|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|30-09-2022 16:09:40|No se encontró el archivo en PracticasCompuI/Arreglos/Arreglos.cpp|05-10-2020 21:00:00|5|
 
-Última actualización: 29-09-2022 20:13
+Última actualización: 30-09-2022 16:09
