@@ -1,7 +1,7 @@
 # Calificaciones: 5f3f27
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|03-10-2022 17:31:22|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|03-10-2022 17:31:22|No se encontró el archivo en PracticasCompuI/Arreglos/Arreglos.cpp|05-10-2020 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|03-10-2022 18:30:59|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|03-10-2022 18:31:00|No se encontró el archivo en PracticasCompuI/Arreglos/Arreglos.cpp|05-10-2020 21:00:00|5|
 
-Última actualización: 03-10-2022 17:31
+Última actualización: 03-10-2022 18:31
