@@ -1,6 +1,6 @@
 # Práctica 5: GaussJordan
 
-## Fecha de realización: 01/10/2021
+## Fecha de realización: 12/10/2022
 
 ## Temas
 * Matrices
@@ -17,11 +17,11 @@
 
 **IMPORTANTE**: deberás de cumplir con las siguientes indicaciones, de forma contraria podría haber problemas con la revisión de tu práctica.
 
-El código fuente de la solución de tu práctica (que deberá tener una extensión .cpp) deberá de estar en tu cuenta de GitHub, en el repository `PracticasComputacionI`. Además:
+El código fuente de la solución de tu práctica (que deberá tener una extensión .cpp) deberá de estar en tu cuenta de GitHub, en el repository `PracticasCompuI`. Además:
 * Dentro de este repository deberás de crear una carpeta llamada `GaussJordan`.
 * El nombre de tu archivo fuente deberá de ser `GaussJordan.cpp`.
 
-En esta carpeta `GaussJordan` es donde se deberá de encontrar tu archivo de C++ llamado `GaussJordan.cpp`. Puedes probar que esto sea correcto accediendo a `https://github.com/<TUUSUARIO>/PracticasComputacionI/tree/master/GaussJordan/GaussJordan.cpp` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberá de aparecer tu código fuente que será la solución a esta práctica.
+En esta carpeta `GaussJordan` es donde se deberá de encontrar tu archivo de C++ llamado `GaussJordan.cpp`. Puedes probar que esto sea correcto accediendo a `https://github.com/<TUUSUARIO>/PracticasCompuI/tree/master/GaussJordan/GaussJordan.cpp` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberá de aparecer tu código fuente que será la solución a esta práctica.
 
 ## Sitios de interés
 

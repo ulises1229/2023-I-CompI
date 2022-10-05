@@ -1,6 +1,6 @@
 # Práctica 4: Arreglos
 
-## Fecha de realización: 24/09/2021
+## Fecha de realización: 05/10/2022
 
 ## Temas
  * Arreglos
