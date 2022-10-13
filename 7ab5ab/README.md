@@ -2,7 +2,8 @@
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|0819b131d20e85ab0c7e7205b2fb1cc60a249373|27-09-2022 22:41:46|28-09-2022 15:55:43|¡Excelente trabajo!|28-09-2022 21:00:00|10.0|
-|GaussJordan|✔️|❌|❌|❌|❌|❌|3184c3fe2d1fd1041b17811ff01c955e822d6d60|12-10-2022 20:11:56|12-10-2022 20:15:15|Tu código no compila|12-10-2022 21:00:00|5|
+|GaussJordan|✔️|❌|❌|❌|❌|❌|3ec2cfe07996a35add9ea5b3f0bdb27bdff99038|12-10-2022 20:30:01|12-10-2022 21:18:48|Tu código no compila|12-10-2022 21:00:00|5|
+|GaussJordan|✔️|❌|❌|❌|❌|❌|3184c3fe2d1fd1041b17811ff01c955e822d6d60|12-10-2022 20:11:56|12-10-2022 20:15:15|Tu código no compila|12-10-2022 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|2249c28404d6863e51b78ee596b3eefcaeef6d8f|02-10-2022 18:18:45|02-10-2022 19:02:12|¡Excelente trabajo!|05-10-2020 21:00:00|10.0|
 
-Última actualización: 12-10-2022 20:15
+Última actualización: 12-10-2022 21:18

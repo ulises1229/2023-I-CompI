@@ -2,9 +2,10 @@
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|a64735b617de9b1e48d59f81662d4149a63520c0|28-09-2022 10:35:52|28-09-2022 12:49:40|No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|10.0|
+|GaussJordan|✔️|✔️|❌|❌|❌|❌|dcb7341fd583789bb99f45a370418f61f1d0b0d6|12-10-2022 21:02:27|12-10-2022 21:18:53|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|12-10-2022 21:00:00|6.0|
 |GaussJordan|✔️|✔️|❌|❌|❌|❌|6013df31aff7d78c80bb3685aee5a9d532a30880|12-10-2022 08:16:28|12-10-2022 08:42:35|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|12-10-2022 21:00:00|6.0|
 |GaussJordan|✔️|❌|❌|❌|❌|❌|492941b8d33d879666fe1bac65c442e2131ae780|07-10-2022 09:49:52|07-10-2022 10:18:10|Tu código no compila|12-10-2022 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|ffa81d4b0aceebbf1e62236bc4dd816b83cbfd1f|05-10-2022 22:35:32|05-10-2022 23:02:58|¡Excelente trabajo!|05-10-2022 21:00:00|10.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|2b81e9c7051bb4ef3110783078acaa7f85c4eef9|05-10-2022 21:47:19|05-10-2022 22:00:45|Tu código no compila|05-10-2022 21:00:00|5.0|
 
-Última actualización: 12-10-2022 08:43
+Última actualización: 12-10-2022 21:20
