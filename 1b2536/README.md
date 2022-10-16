@@ -1,10 +1,11 @@
 # Calificaciones: 1b2536
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Calculadora|✔️|❌|❌|❌|❌|❌|5cee0382fdb21d448c63024e5f0ac1b9fc94aac2|16-10-2022 14:40:25|16-10-2022 14:41:39|Tu código no compila|28-09-2022 21:00:00|5|
 |GaussJordan|✔️|✔️|❌|❌|❌|❌|3ec8b4a211282c7fcddc1cb9885519ccdb248ea2|12-10-2022 20:30:31|12-10-2022 21:23:25|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|12-10-2022 21:00:00|6.0|
 |Calculadora|✔️|✔️|❌|❌|❌|❌|95b35071faf5e5337cd205ba237f04a6d354c16e|09-10-2022 20:09:50|09-10-2022 20:24:49|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división-No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|5.0|
 |Arreglos|✔️|✔️|❌|❌|❌|❌|0df76455d00a042c50b495c6b5965e8aad4c4f34|08-10-2022 22:46:21|08-10-2022 23:39:44|Revisa la operación suma-Revisa la operación multiplicación-El segundo arreglo debe de poder ser de números flotantes-No debe permitir ingresar un operador incorrecto|05-10-2022 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|2bc0f53d880b62d024c7279b550966b9c31e0fe3|06-10-2022 21:01:32|06-10-2022 21:53:23|Tu código no compila|05-10-2022 21:00:00|5.0|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|447a19d3ac879e9e3ff344f5ea74cbc6c9c0b73f|03-10-2022 11:46:26|05-10-2022 14:45:04|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|28-09-2022 21:00:00|5.333333333333333|
 
-Última actualización: 12-10-2022 21:24
+Última actualización: 16-10-2022 14:41
