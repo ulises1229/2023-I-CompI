@@ -1,6 +1,7 @@
 # Calificaciones: 1b2536
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
+|GaussJordan|✔️|✔️|❌|❌|✔️|❌|0ef86cae3e86112cda0b328d386c0e6991eded3f|16-10-2022 21:05:51|16-10-2022 22:00:41|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No intercambia las filas cuando un pivote es cero|19-10-2022 21:00:00|7.333333333333333|
 |GaussJordan|✔️|✔️|❌|❌|❌|❌|bc79569277d43df9aa75b53f2222b1b5212f4a6e|16-10-2022 17:47:24|16-10-2022 17:50:41|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|19-10-2022 21:00:00|6.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|fc2de322da09d5d7c5895e7a09071e3a6d52c6c8|16-10-2022 16:41:03|16-10-2022 16:47:36|¡Excelente trabajo!|05-10-2022 21:00:00|5.0|
 |Arreglos|✔️|✔️|❌|❌|❌|❌|3a12f03da2fd71cf909eaca762d3886102033b55|16-10-2022 15:00:10|16-10-2022 15:44:31|Revisa la operación suma-Revisa la operación multiplicación-El segundo arreglo debe de poder ser de números flotantes-No debe permitir ingresar un operador incorrecto|05-10-2022 21:00:00|5.0|
@@ -12,4 +13,4 @@
 |Arreglos|✔️|❌|❌|❌|❌|❌|2bc0f53d880b62d024c7279b550966b9c31e0fe3|06-10-2022 21:01:32|06-10-2022 21:53:23|Tu código no compila|05-10-2022 21:00:00|5.0|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|447a19d3ac879e9e3ff344f5ea74cbc6c9c0b73f|03-10-2022 11:46:26|05-10-2022 14:45:04|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|28-09-2022 21:00:00|5.333333333333333|
 
-Última actualización: 16-10-2022 17:52
+Última actualización: 16-10-2022 22:02
