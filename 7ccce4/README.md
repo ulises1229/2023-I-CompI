@@ -1,7 +1,7 @@
 # Calificaciones: 7ccce4
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|02-11-2022 22:12:51|No se encontró el archivo en PracticasCompuI/Puntos/Puntos.cpp|05-11-2022 21:00:00|5|
+|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|02-11-2022 23:16:32|No se encontró el archivo en PracticasCompuI/Puntos/Puntos.cpp|05-11-2022 21:00:00|5|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|a64735b617de9b1e48d59f81662d4149a63520c0|28-09-2022 10:35:52|28-09-2022 12:49:40|No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|10.0|
 |GaussJordan|✔️|✔️|❌|❌|✔️|❌|7e53b5c39e86452731a234c05a3d1b98f591b5f8|13-10-2022 18:52:02|13-10-2022 19:14:10|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No intercambia las filas cuando un pivote es cero|19-10-2022 21:00:00|7.333333333333333|
 |GaussJordan|✔️|✔️|❌|❌|✔️|❌|f9727b90ec480a73462b8e44912b2e01fb933b53|13-10-2022 17:33:26|13-10-2022 18:10:39|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No intercambia las filas cuando un pivote es cero|19-10-2022 21:00:00|7.333333333333333|
@@ -11,4 +11,4 @@
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|ffa81d4b0aceebbf1e62236bc4dd816b83cbfd1f|05-10-2022 22:35:32|05-10-2022 23:02:58|¡Excelente trabajo!|05-10-2022 21:00:00|10.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|2b81e9c7051bb4ef3110783078acaa7f85c4eef9|05-10-2022 21:47:19|05-10-2022 22:00:45|Tu código no compila|05-10-2022 21:00:00|5.0|
 
-Última actualización: 02-11-2022 22:12
+Última actualización: 02-11-2022 23:16
