@@ -1,9 +1,9 @@
 # Calificaciones: 5f3f27
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|05-11-2022 23:26:00|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|05-11-2022 23:26:00|No se encontró el archivo en PracticasCompuI/Arreglos/Arreglos.cpp|05-10-2022 21:00:00|5|
-|GaussJordan|❌|❌|❌|❌|❌|❌|NA|NA|05-11-2022 23:26:00|No se encontró el archivo en PracticasCompuI/GaussJordan/GaussJordan.cpp|19-10-2022 21:00:00|5|
-|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|05-11-2022 23:26:01|No se encontró el archivo en PracticasCompuI/Puntos/Puntos.cpp|05-11-2022 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|06-11-2022 00:31:00|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|06-11-2022 00:31:01|No se encontró el archivo en PracticasCompuI/Arreglos/Arreglos.cpp|05-10-2022 21:00:00|5|
+|GaussJordan|❌|❌|❌|❌|❌|❌|NA|NA|06-11-2022 00:31:01|No se encontró el archivo en PracticasCompuI/GaussJordan/GaussJordan.cpp|19-10-2022 21:00:00|5|
+|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|06-11-2022 00:31:02|No se encontró el archivo en PracticasCompuI/Puntos/Puntos.cpp|05-11-2022 21:00:00|5|
 
-Última actualización: 05-11-2022 23:26
+Última actualización: 06-11-2022 00:31
