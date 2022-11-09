@@ -20,13 +20,13 @@
 
 **IMPORTANTE**: deberás de cumplir con las siguientes indicaciones, de forma contraria podría haber problemas con la revisión de tu práctica.
 
-El código fuente de la solución de tu práctica (que deberá tener una extensión .cpp) deberá de estar en tu cuenta de GitHub, en el repository `PracticasComputacionI`. Además:
+El código fuente de la solución de tu práctica (que deberá tener una extensión .cpp) deberá de estar en tu cuenta de GitHub, en el repository `PracticasCompuI`. Además:
 * Dentro de este repository deberás de crear una carpeta llamada `CargaElectrica`.
 * Tendrás dos archivos fuente: `Grupo.cpp` y `Grupo.h`, ambos deberán de estar en la carpeta mencionada en el punto anterior.
 
 **IMPORTANTE**: Tu carpeta puede contener el archivo `CargaElectrica.cpp` con el contenido del archivo fuente que se adjunta en esta práctica, sin embargo este será ignorado para la revisión de tu práctica, de forma que si le haces modificaciones no se verán reflejadas en la revisión final.
 
-En esta carpeta `CargaElectrica` es donde se deberán de encontrar tus archivos `Grupo.cpp` y `Grupo.h`. Puedes probar que esto sea correcto accediendo a `https://github.com/<TUUSUARIO>/PracticasComputacionI/tree/master/CargaElectrica` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberán de aparecer los tres códigos fuente que serán la solución a esta práctica.
+En esta carpeta `CargaElectrica` es donde se deberán de encontrar tus archivos `Grupo.cpp` y `Grupo.h`. Puedes probar que esto sea correcto accediendo a `https://github.com/<TUUSUARIO>/PracticasCompuI/tree/master/CargaElectrica` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberán de aparecer los tres códigos fuente que serán la solución a esta práctica.
 
 ## Sitios de interés
 
