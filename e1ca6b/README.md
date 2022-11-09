@@ -8,8 +8,9 @@
 |GaussJordan|✔️|✔️|✔️|✔️|❌|✔️|e114f5233c5413b42ee1afd3bb0045fa7f34152b|12-10-2022 18:20:04|12-10-2022 19:12:34|No avisa al usuario que el sistema no tiene solución|12-10-2022 21:00:00|10.0|
 |GaussJordan|✔️|✔️|✔️|✔️|❌|✔️|93bc3e03e4de883089db28c490af321f585097bc|11-10-2022 22:36:41|11-10-2022 23:22:15|No avisa al usuario que el sistema no tiene solución|12-10-2022 21:00:00|10.0|
 |GaussJordan|✔️|✔️|❌|❌|❌|❌|e3d477bd61f451e573ef0eeaca1ba3af2a257a91|10-10-2022 22:00:11|10-10-2022 22:21:00|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|12-10-2022 21:00:00|6.0|
-|Puntos|✔️|❌|❌|❌|❌|❌|8830514d731083b3f5a6e843c7b82ad3108b9d10|05-11-2022 11:21:02|05-11-2022 11:31:40|Tu código no compila|05-11-2022 21:00:00|5|
+|Puntos|✔️|❌|❌|❌|❌|❌|78bf3d29238f7ae331abae2cf538c3ce50b56061|09-11-2022 10:18:55|09-11-2022 10:55:52|Tu código no compila|05-11-2022 21:00:00|5|
+|Puntos|✔️|❌|❌|❌|❌|❌|8830514d731083b3f5a6e843c7b82ad3108b9d10|05-11-2022 11:21:02|05-11-2022 11:31:40|Tu código no compila|05-11-2022 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|ed26c0d7f2624ea40b64a6fafebd61a277537bf6|04-10-2022 22:38:13|04-10-2022 23:08:22|¡Excelente trabajo!|05-10-2020 21:00:00|10.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|b38861bc3a0050e863c01091307e09ee02fc49b2|03-11-2022 18:55:46|03-11-2022 19:27:17|Tu código no compila|05-11-2022 21:00:00|5.0|
 
-Última actualización: 05-11-2022 11:31
+Última actualización: 09-11-2022 10:55
