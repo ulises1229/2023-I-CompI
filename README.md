@@ -68,6 +68,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|28/09/2021|
 |4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li></ul>|05/10/2022|
 |5.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li>[Práctica](practicas/5_GaussJordan)</li></ul>|12/10/2022|
-|6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica](practicas/6_Puntos)</li></ul>|3/11/2021|
+|6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica](practicas/6_Puntos)</li></ul>|13/11/2021|
+|7.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li>[Práctica](practicas/7_CargaElectrica)</li><li>[Presentación](practicas/7_CargaElectrica/CargaElectricaPresentacion.pdf)</li><li></li></ul>|16/11/2021|
 
-#### Última modificación: 25 de octubre de 2022
+#### Última modificación: 9 de noviembre de 2022

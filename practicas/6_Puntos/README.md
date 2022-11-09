@@ -1,6 +1,6 @@
 # Práctica 6: Puntos en un Plano y Transformaciones Geométricas 
 
-## Fecha de realización: 03/11/2021
+## Fecha de realización: 13/11/2021
 
 ## Temas
 * Programación orientada a objetos
