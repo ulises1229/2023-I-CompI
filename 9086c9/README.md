@@ -1,7 +1,7 @@
 # Calificaciones: 9086c9
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|16-11-2022 06:25:36|No se encontró el archivo en PracticasCompuI/CargaElectrica/Grupo.h|16-11-2022 21:00:00|5|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|16-11-2022 07:31:33|No se encontró el archivo en PracticasCompuI/CargaElectrica/Grupo.h|16-11-2022 21:00:00|5|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|7d8e231c2383565a4fed291acc27819ef5577bb5|19-10-2022 01:18:21|19-10-2022 01:55:39|¡Excelente trabajo!|19-10-2022 21:00:00|10.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|49f54a94c17a4681e10f9a56864034990fd090da|16-11-2022 01:12:17|16-11-2022 02:01:46|Tu código no compila|13-11-2022 21:00:00|5.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|2e1406099b1efaf89c22e4789f559a780018088f|16-11-2022 00:50:39|16-11-2022 00:55:48|Tu código no compila|13-11-2022 21:00:00|5.0|
@@ -15,4 +15,4 @@
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|74598906263115ceee0b7881aff522d8bcc0610b|06-10-2022 16:54:19|12-10-2022 11:52:02|¡Excelente trabajo!|05-10-2022 21:00:00|10.0|
 |Calculadora|✔️|✔️|❌|❌|❌|❌|f8b1246e9c1b5a72835846ad2714ade33d4fd3d7|05-10-2022 11:38:47|12-10-2022 11:51:20|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división-No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|5.0|
 
-Última actualización: 16-11-2022 06:25
+Última actualización: 16-11-2022 07:31
