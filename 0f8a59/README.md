@@ -1,12 +1,13 @@
 # Calificaciones: 0f8a59
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|16-11-2022 09:44:31|No se encontró el archivo en PracticasCompuI/CargaElectrica/Grupo.h|16-11-2022 21:00:00|5|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|16-11-2022 10:50:30|No se encontró el archivo en PracticasCompuI/CargaElectrica/Grupo.h|16-11-2022 21:00:00|5|
 |Calculadora|✔️|✔️|✔️|❌|✔️|✔️|22bfd98efc709c29c8f2e36d1183f490e5871efd|24-09-2022 22:46:19|24-09-2022 23:38:26|No implementaste operaciones con números flotantes|28-09-2022 21:00:00|10.0|
+|Puntos|✔️|❌|❌|❌|❌|❌|c16f566b76726db3282662a0324aee04600289ec|16-11-2022 10:18:46|16-11-2022 10:50:28|Tu código no compila|13-11-2022 21:00:00|5|
 |Puntos|✔️|❌|❌|❌|❌|❌|043c98d350b7234cb314efb560c020af2d866b51|13-11-2022 11:34:07|14-11-2022 10:26:23|Tu código no compila|13-11-2022 21:00:00|5.0|
 |GaussJordan|✔️|✔️|❌|❌|❌|❌|1aeb35ac696f824f73af1704f8787649b6b47d92|11-10-2022 20:34:23|11-10-2022 21:17:33|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|12-10-2022 21:00:00|6.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|a877e3416e0be17bd9504d59f5dff8c129404169|09-11-2022 12:06:29|09-11-2022 13:10:36|Tu código no compila|13-11-2022 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|9dbd7b0bada25f87fe229bcfcb5ea09f4f25f64e|05-10-2022 10:39:30|05-10-2022 11:37:56|¡Excelente trabajo!|05-10-2020 21:00:00|10.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|3840e34081f27e9db1b71c305cadd2200e45487e|05-10-2022 10:27:49|05-10-2022 10:34:57|¡Excelente trabajo!|05-10-2020 21:00:00|10.0|
 
-Última actualización: 16-11-2022 09:44
+Última actualización: 16-11-2022 10:50
