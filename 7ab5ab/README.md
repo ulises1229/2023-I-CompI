@@ -1,7 +1,7 @@
 # Calificaciones: 7ab5ab
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|16-11-2022 18:28:05|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|16-11-2022 21:00:00|5|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|16-11-2022 19:34:02|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|16-11-2022 21:00:00|5|
 |Puntos|✔️|❌|❌|❌|❌|❌|eb80bf8f4cfc8b2889ba13e3de29f3c688785fc4|31-10-2022 18:49:25|02-11-2022 20:00:26|Tu código no compila|05-11-2020 21:00:00|5.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|0819b131d20e85ab0c7e7205b2fb1cc60a249373|27-09-2022 22:41:46|28-09-2022 15:55:43|¡Excelente trabajo!|28-09-2022 21:00:00|10.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|b97b909d82e23f6e2421c8680c7a67839557c81f|16-11-2022 11:07:43|16-11-2022 11:52:14|Tu código no compila|13-11-2022 21:00:00|5.0|
@@ -13,4 +13,4 @@
 |Puntos|✔️|✔️|❌|❌|❌|❌|5e9ee16083a9f72b03c692abbeb2894b0789cadc|09-11-2022 10:30:37|09-11-2022 10:52:49|No aplica correctamente la traslación-No aplica correctamente la rotación-No aplica correctamente el escalado-No hace correctamente la rotación con ángulos negativos|05-11-2022 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|2249c28404d6863e51b78ee596b3eefcaeef6d8f|02-10-2022 18:18:45|02-10-2022 19:02:12|¡Excelente trabajo!|05-10-2020 21:00:00|10.0|
 
-Última actualización: 16-11-2022 18:28
+Última actualización: 16-11-2022 19:34
