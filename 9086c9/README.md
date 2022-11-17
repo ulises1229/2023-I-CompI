@@ -1,9 +1,9 @@
 # Calificaciones: 9086c9
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|17-11-2022 12:07:30|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|23-11-2022 21:00:00|5|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|17-11-2022 13:13:26|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|23-11-2022 21:00:00|5|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|7d8e231c2383565a4fed291acc27819ef5577bb5|19-10-2022 01:18:21|19-10-2022 01:55:39|¡Excelente trabajo!|19-10-2022 21:00:00|10.0|
-|Puntos|✔️|❌|❌|❌|❌|❌|4e227efa5bf42933be91ebdd2c27df16f509eee7|17-11-2022 12:01:07|17-11-2022 12:07:29|Tu código no compila|13-11-2022 21:00:00|5|
+|Puntos|✔️|❌|❌|❌|❌|❌|4e227efa5bf42933be91ebdd2c27df16f509eee7|17-11-2022 12:01:07|17-11-2022 12:07:29|Tu código no compila|13-11-2022 21:00:00|5.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|ec4f25803154fdba74d711f3f9d85433bf096043|16-11-2022 11:09:24|16-11-2022 11:55:27|Tu código no compila|13-11-2022 21:00:00|5.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|49f54a94c17a4681e10f9a56864034990fd090da|16-11-2022 01:12:17|16-11-2022 02:01:46|Tu código no compila|13-11-2022 21:00:00|5.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|2e1406099b1efaf89c22e4789f559a780018088f|16-11-2022 00:50:39|16-11-2022 00:55:48|Tu código no compila|13-11-2022 21:00:00|5.0|
@@ -17,4 +17,4 @@
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|74598906263115ceee0b7881aff522d8bcc0610b|06-10-2022 16:54:19|12-10-2022 11:52:02|¡Excelente trabajo!|05-10-2022 21:00:00|10.0|
 |Calculadora|✔️|✔️|❌|❌|❌|❌|f8b1246e9c1b5a72835846ad2714ade33d4fd3d7|05-10-2022 11:38:47|12-10-2022 11:51:20|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división-No sale con código diferente de cero con división entre cero|28-09-2022 21:00:00|5.0|
 
-Última actualización: 17-11-2022 12:07
+Última actualización: 17-11-2022 13:13
