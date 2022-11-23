@@ -1,7 +1,7 @@
 # Calificaciones: 0f8a59
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 07:54:17|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|23-11-2022 21:00:00|5|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 09:01:00|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|23-11-2022 21:00:00|5|
 |Calculadora|✔️|✔️|✔️|❌|✔️|✔️|22bfd98efc709c29c8f2e36d1183f490e5871efd|24-09-2022 22:46:19|24-09-2022 23:38:26|No implementaste operaciones con números flotantes|28-09-2022 21:00:00|10.0|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|1926813113a714d03daaf8a5e701b1a65206e10a|16-11-2022 22:48:54|16-11-2022 22:56:15|¡Excelente trabajo!|13-11-2022 21:00:00|8.5|
 |Puntos|✔️|❌|❌|❌|❌|❌|8baadc0ae71d3da83e23da6fd393a4168da546ca|16-11-2022 19:38:30|16-11-2022 20:44:17|Tu código no compila|13-11-2022 21:00:00|5.0|
@@ -13,4 +13,4 @@
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|9dbd7b0bada25f87fe229bcfcb5ea09f4f25f64e|05-10-2022 10:39:30|05-10-2022 11:37:56|¡Excelente trabajo!|05-10-2020 21:00:00|10.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|3840e34081f27e9db1b71c305cadd2200e45487e|05-10-2022 10:27:49|05-10-2022 10:34:57|¡Excelente trabajo!|05-10-2020 21:00:00|10.0|
 
-Última actualización: 23-11-2022 07:54
+Última actualización: 23-11-2022 09:01
