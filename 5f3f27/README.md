@@ -1,10 +1,10 @@
 # Calificaciones: 5f3f27
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 21:22:21|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 21:22:22|No se encontró el archivo en PracticasCompuI/Arreglos/Arreglos.cpp|05-10-2022 21:00:00|5|
-|GaussJordan|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 21:22:22|No se encontró el archivo en PracticasCompuI/GaussJordan/GaussJordan.cpp|19-10-2022 21:00:00|5|
-|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 21:22:23|No se encontró el archivo en PracticasCompuI/Puntos/Punto.cpp|13-11-2022 21:00:00|5|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 21:22:23|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|23-11-2022 21:00:00|5|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 22:31:35|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 22:31:36|No se encontró el archivo en PracticasCompuI/Arreglos/Arreglos.cpp|05-10-2022 21:00:00|5|
+|GaussJordan|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 22:31:36|No se encontró el archivo en PracticasCompuI/GaussJordan/GaussJordan.cpp|19-10-2022 21:00:00|5|
+|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 22:31:37|No se encontró el archivo en PracticasCompuI/Puntos/Punto.cpp|13-11-2022 21:00:00|5|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|23-11-2022 22:31:37|No se encontró el archivo en PracticasCompuI/CargaElectrica/CargaElectrica.cpp|23-11-2022 21:00:00|5|
 
-Última actualización: 23-11-2022 21:22
+Última actualización: 23-11-2022 22:31
