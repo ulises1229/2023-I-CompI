@@ -1,4 +1,7 @@
 # Calificaciones: 9086c9
+
+### Calificación final: 9.5
+
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|706d47c7dcc03d7deb6f124fa6a22d82edd8e3b1|23-11-2022 11:19:31|23-11-2022 12:20:08|¡Excelente trabajo!|23-11-2022 21:00:00|10|

@@ -1,4 +1,7 @@
 # Calificaciones: a1ea37
+
+### Calificación final: 9.2
+
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|95eee453a6c6aa395ad6d238f248ea5ecb8c29c6|28-09-2022 23:14:49|29-09-2022 00:05:39|¡Excelente trabajo!|28-09-2022 21:00:00|10.0|

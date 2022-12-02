@@ -1,4 +1,7 @@
 # Calificaciones: 47207f
+
+### Calificación final: 9.73
+
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|❌|❌|✔️|✔️|9baa8e28dd3ec4bbd0c0e1fede66ba3796b663d0|29-09-2022 20:58:35|30-09-2022 16:08:53|Revisa la operación suma-No implementaste operaciones con números flotantes|28-09-2022 21:00:00|8.666666666666666|

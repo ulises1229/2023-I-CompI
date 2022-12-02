@@ -1,4 +1,7 @@
 # Calificaciones: 5f3f27
+
+### Calificación final: 5.0
+
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|01-12-2022 14:22:29|No se encontró el archivo en PracticasCompuI/Calculadora/Calculadora.cpp|28-09-2022 21:00:00|5|

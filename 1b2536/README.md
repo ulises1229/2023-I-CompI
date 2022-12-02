@@ -1,4 +1,7 @@
 # Calificaciones: 1b2536
+
+### Calificación final: 8.2
+
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Puntos|❌|❌|❌|❌|❌|❌|NA|NA|01-12-2022 14:26:38|No se encontró el archivo en PracticasCompuI/Puntos/Punto.cpp|13-11-2022 21:00:00|5|
