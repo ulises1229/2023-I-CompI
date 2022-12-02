@@ -60,6 +60,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 # Prácticas
 
+## **IMPORTANTE**: ¡Ya estás las calificaciones finales, entra en el enlace de calificaciones para concerla!.
+
 **Revisiones:** Puedes revisar los resultados y las calificaciones de tus prácticas en [el siguiente enlace](https://github.com/ulises1229/2023-I-CompI/tree/Grades).
 
 |Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
